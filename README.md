@@ -92,3 +92,8 @@ Each group must submit:
 **Instructor:** Adnan Jelani  
 **Course:** Introduction to ICT – Lab 7  
 **Semester:** Fall 2025
+
+----------------
+**Group Leader:** Muhammad Awais Malik
+**Teammate 1:** Salman Faisal
+**Teammate 2:** Ali Ahmad Waseem
